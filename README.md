@@ -1,4 +1,4 @@
-# Minecraft Bedrock Wiki
+# Minecraft Bedrock Wiki Archive
 
 Welcome to the Bedrock Wiki!
 
